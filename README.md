@@ -1,1 +1,1 @@
-# djjl
+Django practice repo
